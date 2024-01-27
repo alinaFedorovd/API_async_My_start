@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(203, 211, 210);
+}
+.getText{
+    width: 300px;
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 20px;
+    /* border: 2px solid black; */
+    border-radius: 15px;
+    background-color: aliceblue;
+}
+#post-autor{
+    margin-left: 150px;
+    margin-top: 25px;
+    color: rgb(124, 127, 131);
+}
+
+#img2{
+   height: 700px;
+background-repeat: no-repeat;
+   /* width: 500px; */
+   /* border: 2px solid; */
+   /* background-image: url("https://images.dog.ceo/breeds/deerhound-scottish/n02092002_7473.jpg"); */
+   /* background-color: aquamarine; */
+   
+}
